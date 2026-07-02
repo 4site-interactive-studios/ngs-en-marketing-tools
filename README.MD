@@ -2,7 +2,7 @@
 
 This repository contains the MJML source code, assets, and JSON exports for the National Geographic Society Engaging Networks Marketing Tools email templates.
 
-Client Documentation can be found here: **TO DO: ADD LINK TO DOCUMENTATION**
+Client Documentation can be found [here](https://docs.google.com/document/d/1AN5cWje5MMt6zZOxemyUQBos4RuJvtVaMEgseYHxQms/edit?tab=t.bzn2ndbj0m9s)
 
 ## Project Structure
 
@@ -12,7 +12,7 @@ Client Documentation can be found here: **TO DO: ADD LINK TO DOCUMENTATION**
   - `assets/`: Contains images and other assets used in the templates.
 - **`dist/`**: Contains the compiled HTML files generated from the MJML templates
 - **`exports/`**: Contains the JSON definitions for the email blocks and the master template, ready for import into Engaging Networks.
-- **`documentation/`**: Contains detailed documentation for the templates and blocks **TO DO: ADD LINK TO DOCUMENTATION**
+- **`documentation/`**: Contains detailed documentation for the templates and blocks
 
 ## Getting Started
 
