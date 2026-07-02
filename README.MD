@@ -44,7 +44,23 @@ npm install
 
 The following blocks are available for use in the "4Site Main Template":
 
-- **TODO**: Add block names and descriptions here.
+- Highlighted Text
+- Question Response
+- Side-By-Side Image and Text Block
+- Spacer Block
+- Testimonial Block
+- Divider
+- Callout With Image Background
+- Call To Action Block
+- Footer Block
+- Signature Block
+- 2 Columns Image and Text Block
+- Three Image Columns Block
+- Two Image Columns Block
+- Image With Caption
+- Button Block
+- Text Block
+- Header Logo Block
 
 For detailed configuration options and previews, please refer to the documentation.
 
