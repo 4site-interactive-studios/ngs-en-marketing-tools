@@ -208,6 +208,9 @@
     </mj-section>
     <mj-section css-class="spacer-block block" padding="0">
       <mj-column>
+        <mj-text padding="10px 0 0" align="right" css-class="wysiwyg caption">
+          <span style="font-size:11px; font-family: Arial, sans-serif;">PHOTOGRAPHY BY PHOTOGRAPHER NAME, AGENCY</span>
+        </mj-text>
         <mj-spacer height="20px" container-background-color="#ffffff" />
       </mj-column>
     </mj-section>
